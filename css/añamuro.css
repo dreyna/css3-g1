@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 20px;
+
+}
+
+.inicial {
+    width: 1300px;
+    height: 50px;
+    background-color: black;
+    margin: 0 auto;
+}
+.cabeza{
+    width: 1300px;
+    height: 350px;
+    background-color: rgb(55, 55, 221);
+    margin: 0 auto;    
+}
+.contenido_web{
+    width: 1300px;
+    height: 950px;
+    
+    margin: 0 auto;  
+
+}
+.base1{
+    width: 1300px;
+    height: 250px;
+    background-color: rgba(104, 104, 117, 0.801);
+    margin: 0 auto;  
+}
+.base2{
+    width: 1300px;
+    height: 100px;
+    background-color: rgba(26, 194, 101, 0.801);
+    margin: 0 auto;  
+}
+
+
+
