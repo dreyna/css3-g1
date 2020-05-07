@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image: url("/imagenes/M_a.jpg");
+    opacity: 90%;
+}
+header{
+    width: 900px;
+    height: 20px;
+    
+    margin: 0 auto;
+}
+
+.titulo{
+    width: 900px;
+    height: 20px;
+    background-color: black;
+    float: left;
+}
+.menu{
+    height: 200px;
+    float: right;
+}
+main{
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+}
+aside{
+    width: 200px;
+    height: 500px;
+    background-color: cornflowerblue;
+    margin: 0 auto;
+    float: left;
+}
+nav{
+    width: 900px;
+    height: 420px;
+    margin:auto;
+
+    background-image: url("/imagenes/M_Palomino.jpg");
+    padding: 10px  30px;
+}
+footer{
+    width: 900px;
+    height: 220px;
+    background-color:#9db3db;
+    margin: 0 auto;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Bungee Inline', cursive;
+}
+h2{
+    display: inline-block;
+    font-family: 'Patrick Hand', cursive;
+font-family: 'Aldrich', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 16px;
+}
+nav li{
+    
+    display: inline-block;
+    width: 120px;
+    height: 50px;
+    padding: 15px 10px;
+    text-align: center;
+    color: white;
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    
+}
+nav li:hover{
+   
+    background-color: rgb(160, 11, 11);
+    color: white;
+
+}
+.fin{
+    width: 900px;
+    height: 80px;
+    background-color: white;
+    float: left;
+}
+.final2{
+    width: 900px;
+    height: 220px;
+    background-color: rgb(165, 13, 185);
+   
+    
+}
+.caja1{
+    width: 900px;
+    height: 270px;
+    background-color: rgba(255, 140, 0, 0.89);
+    margin: 0 auto;
+    float: left;
+}
+.caja2{
+    width: 900px;
+    height:330px;
+    margin: 0 auto;
+    float: left;
+    background-color: rgba(123, 44, 252, 0.719);
+}
+.logo{
+    width: 300px;
+    height: 100px;
+    left: 20px;
+ margin: 80 ;
+ padding: px 0px ;
+ display: inline-block;
+
+}
+.logo2{
+    width: 330px;
+    height: 90px;
+    float: left;
+    padding: 10px 200px;
+}
+
+.imagen_p1{
+    float: left;
+    padding: 50px  40px;
+    
+}
+.imagen_p2{
+    width: 400;
+    height:25;
+    float: left;
+    padding: 28px 90px;
+    
+}
+.cuadro_texto1{
+    float: left;
+    width:340px;
+    height: 300px;
+    padding: 67px  32px;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Aldrich', sans-serif;
+    font-family: 'Rasa', serif;
+}
+.cuadro_texto2{
+    float: left;
+    width:300px;
+    height: 300px;
+    padding:48px 25px;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Aldrich', sans-serif;
+    font-family: 'Rasa', serif;
+}
+.cuadro_texto3{
+    width: 10px;
+    height: 40px;
+    padding: 3px 97px;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Aldrich', sans-serif;
+
+}
+.cuadro_texto4{
+    width: 10px;
+    height: 20px;
+    padding: 3px 136px;
+    font-family: 'Patrick Hand', cursive;
+    font-family: 'Aldrich', sans-serif;
+
+}
+.numero2{
+    width: 300px;
+    height: 20px;
+    float: left;
+    background-color: rgb(252, 252, 252);
+}
+.bibliografia{
+    width: 500px;
+    height:140px; 
+    float: left;
+    padding: 12px 70px;
+    left: 30px;
+}
