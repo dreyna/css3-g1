@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#home{
+    width: 860px;
+    height: 560px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.caja{
+    width: 280px;
+    height: 300px;
+    margin: 10px;
+    padding: 20px;
+    text-align: justify;
+    color: rgb(171, 172, 175);
+    border-radius: 25px;
+    border: 1px solid rgb(226, 235, 250);
+    box-sizing: border-box;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: 14px;
+}
+
+#cajitas{
+    width: 860px;
+    height: 320px;
+    display: flex;
+}
+.lateral{
+    width: 840px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 25px;
+    border: 1px solid rgb(243, 238, 238);
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.image1{
+    text-align: center;
+}
+.textito{
+    width: 550px;
+    height: 200px;
+    padding-top: 50px;
+    box-sizing: border-box;
+    color: rgb(171, 172, 175);
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: 14px;
+}
+.figurita{
+    width: 250px;
+    height: 200px;
+
+}
+.figuras{
+    border-radius: 50%;
+    border: 1px solid rgb(211, 211, 211);
+    padding: 20px;
+}
